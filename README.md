@@ -16,4 +16,4 @@ Puedes ver el ejemplo con su código y salidas sin ningún problema, si quieres 
 * [Pandas](https://pandas.pydata.org/) - 0.24.0 
 
 ## Autor
-* **Leonardo Bouchan** - [liobouchan](https://github.com/liobouchan)
+* **Leonardo Bouchan** - *Rhisco* - [liobouchan](https://github.com/liobouchan)
